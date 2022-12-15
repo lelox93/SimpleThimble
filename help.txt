@@ -1,0 +1,5 @@
+# Command to launch the site in the browser
+.\_build\html\index.html
+
+# Make command to build the project
+make html

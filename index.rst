@@ -12,7 +12,7 @@ Here is some new content from VS Code. And a change from GitHub online!
    :maxdepth: 2
    :caption: Overview:
 
-   Overview/intro
+   Welcome to Simple Thimble! <Overview/intro>
    Overview/haptic-intro
 
 .. toctree::

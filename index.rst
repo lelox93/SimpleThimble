@@ -8,6 +8,7 @@ Welcome to Simple Thimble documentation!
 Simple Thimble is the first open-source and low-cost do-it-yourself project to build your **own** VR-enabled **force feedback device**.
 Here is some new content from VS Code. And a change from GitHub online!
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Overview:

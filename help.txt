@@ -3,3 +3,6 @@
 
 # Make command to build the project
 make html
+
+# To not make the toctree warning the title (++++)
+# needs to have an empty line on top

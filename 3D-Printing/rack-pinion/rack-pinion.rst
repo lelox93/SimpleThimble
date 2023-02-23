@@ -14,14 +14,14 @@ can be used to manipulate objects or instruments with the thimble. The 3D
 printed parts are designed to fit precisely inside the thimble and mesh 
 smoothly with each other, ensuring reliable and accurate conversion of motion.
 
-You can download the .stl file of the rack :download:`here <rack.stl>` and 
-that of the pinion :download:`here <pinion.stl>`.
-
 .. image:: rack-pinion.gif
    :alt: rack-pinion
    :height: 300px
    :width: 300px
    :align: right
+
+You can download the .stl file of the rack :download:`here <rack.stl>` and 
+that of the pinion :download:`here <pinion.stl>`.
 
 In addition to converting rotary motion to linear motion, the rack and pinion 
 mechanism also includes an ergonomic fingertip envelope at the end of the rack. 

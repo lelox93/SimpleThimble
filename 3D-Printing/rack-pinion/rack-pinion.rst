@@ -23,19 +23,18 @@ that of the pinion :download:`here <pinion.stl>`.
    :width: 300px
    :align: right
 
-
-.. image:: rack-pinion.jpg
-   :alt: Rack and Pinion image
-   :height: 300px
-   :width: 300px
-   :align: left
-
 In addition to converting rotary motion to linear motion, the rack and pinion 
 mechanism also includes an ergonomic fingertip envelope at the end of the rack. 
 This envelope is designed to apply equal pressure on all surfaces of the 
 fingertip, ensuring precise and controlled manipulation of objects or instruments. 
 The design of the 3D printed parts takes into account both functionality and 
 comfort, allowing for efficient and ergonomic use.
+
+.. image:: rack-pinion.jpg
+   :alt: Rack and Pinion image
+   :height: 300px
+   :width: 300px
+   :align: left
 
 The design of these 3D printed parts was also done with ease of printing in mind, 
 using fused deposition modeling (FDM) technology. This method allows for quick 

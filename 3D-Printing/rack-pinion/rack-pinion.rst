@@ -19,6 +19,8 @@ that of the pinion :download:`here <pinion.stl>`.
 
 .. image:: rack-pinion.gif
    :alt: rack-pinion
+   :height: 300px
+   :width: 300px
    :align: right
 
 

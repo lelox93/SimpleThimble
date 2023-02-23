@@ -17,17 +17,16 @@ smoothly with each other, ensuring reliable and accurate conversion of motion.
 You can download the .stl file of the rack :download:`here <rack.stl>` and 
 that of the pinion :download:`here <pinion.stl>`.
 
+.. image:: rack-pinion.gif
+   :alt: rack-pinion
+   :align: right
+
 
 .. image:: rack-pinion.jpg
    :alt: Rack and Pinion image
    :height: 300px
    :width: 300px
    :align: left
-
-
-.. image:: rack-pinion.gif
-   :alt: rack-pinion
-   :align: right
 
 In addition to converting rotary motion to linear motion, the rack and pinion 
 mechanism also includes an ergonomic fingertip envelope at the end of the rack. 

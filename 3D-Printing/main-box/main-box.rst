@@ -8,6 +8,8 @@ You can download the .stl file :download:`here <finger-servo-adapter.stl>`.
 
 .. image:: main-box.jpg
    :alt: Main Box Image
+   :height: 300px
+   :width: 300px
    :align: left
 
 

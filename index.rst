@@ -21,7 +21,7 @@ New content aooooo
    :caption: 3D Printing:
 
    3D-Printing/3D-printing-intro
-   3D-Printing/main-box
+   3D-Printing/main-box/main-box
    
 .. toctree::
    :maxdepth: 2

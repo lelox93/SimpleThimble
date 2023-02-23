@@ -23,6 +23,7 @@ New content aooooo
    3D-Printing/3D-printing-intro
    3D-Printing/main-box/main-box
    3D-Printing/rack-pinion/rack-pinion
+   3D-Printing/covers/covers
    
 .. toctree::
    :maxdepth: 2

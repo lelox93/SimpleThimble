@@ -1,5 +1,5 @@
 Hardware Overview of Simple Thimble
-===================================
+++++++++++++++++++++++++++++++++++++
 
 Simple Thimble is a DIY haptic thimble that provides tactile feedback to the user. It is designed to be easy to assemble and use, and can be used for a variety of applications.
 
@@ -12,7 +12,7 @@ Simple Thimble is a DIY haptic thimble that provides tactile feedback to the use
 
 
 Components
-----------
+===========
 
 Simple Thimble consists of the following components:
 
@@ -26,7 +26,12 @@ Simple Thimble consists of the following components:
 -   3D printed thimble parts
 
 Parts role inside the thimble
------------------------
+===============================
+
+In the following we will analyze the role that each of the hardware components will have in our thimble.
+
+The ESP32 microcontroller
+---------------------------
 
 #.  Connect the haptic motor to the Arduino Uno board using the provided wires and connectors. 
 #.  Place the haptic motor inside the 3D printed thimble housing. 

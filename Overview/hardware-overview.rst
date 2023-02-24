@@ -23,9 +23,9 @@ Simple Thimble consists of the following components:
 -   a standard SG90 servomotor
 -   a switch
 
--   3D printed thimble housing
+-   3D printed thimble parts
 
-Assembly Instructions
+Parts role inside the thimble
 -----------------------
 
 #.  Connect the haptic motor to the Arduino Uno board using the provided wires and connectors. 
@@ -34,15 +34,3 @@ Assembly Instructions
 #.  Secure the thimble housing with screws. 
 #.  Connect the Arduino Uno board to a computer via USB cable and upload the code. 
 #.  Test the Simple Thimble by pressing the button on the Arduino Uno board. 
-
-
-Usage Instructions
-------------------
-
-1.  Place your finger inside the Simple Thimble and press the button on the Arduino Uno board to activate it. 
-2.  The haptic motor will vibrate, providing tactile feedback to your finger. 
-3.  Adjust the intensity of the vibration by adjusting the code on your computer. 
-
-Conclusion
-----------
-Simple Thimble is an easy-to-assemble DIY haptic thimble that provides tactile feedback to users. It can be used for a variety of applications, from gaming to virtual reality experiences.

@@ -15,9 +15,12 @@ Bill of Materials
     * - D1 mini proto-shield 
       - https://amzn.eu/d/5keiUkw
       - 6,49 €
-    * - D1 mini NodeMcu
+    * - D1 mini ESP8266 board
       - https://amzn.eu/d/aI0mK40
-      - 7,99 €
+      - 8,99 €
+    * - ESP32 board
+      - https://amzn.eu/d/aYQShuS
+      - 8,60 €
     * - D1 mini battery-shield
       - https://amzn.eu/d/akHmwFU
       - 8,99 €

@@ -25,6 +25,11 @@ In the following we will analyze the role that each of the hardware components w
 
 The ESP32 microcontroller
 ---------------------------
+.. image:: items/esp32board.jpg
+   :alt: esp32board
+   :height: 300px
+   :width: 300px
+   :align: left
 The ESP32 microcontroller function as a dongle in our application. It will be connected via USB to the 
 computer to bridge wirelessly received data into the computer using serial communication. The use of the 
 popular ESP32 microcontroller will allow us to use the ESP-NOW protocol to have a reliable connection 

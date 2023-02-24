@@ -3,13 +3,6 @@ Hardware Overview of Simple Thimble
 
 Simple Thimble is a DIY haptic thimble that provides tactile feedback to the user. It is designed to be easy to assemble and use, and can be used for a variety of applications.
 
-.. caution::
-    The project mechanics has been designed to be self produced with low-cost FDM (fused deposition modeling) 3D printing
-
-.. danger:: 
-    To obtain properly working 3D printed mechanical parts, you may need to file some parts to make them fit together. Moreover, soldering parts is needed to make this project.
-    Always wear the proper **safety equipment**. This includes ``safety glasses`` to protect your eyes from flying debris, a ``face mask`` to protect your lungs from fumes, and ``gloves`` to protect your hands from heat and sharp edges. Additionally, it is important to work in a *well-ventilated* area to reduce the risk of inhaling toxic fumes.
-
 
 Components
 ===========
@@ -32,10 +25,9 @@ In the following we will analyze the role that each of the hardware components w
 
 The ESP32 microcontroller
 ---------------------------
+The ESP32 microcontroller function as a dongle in our application. It will be connected via USB to the 
+computer to bridge wirelessly received data into the computer using serial communication. The use of the 
+popular ESP32 microcontroller will allow us to use the ESP-NOW protocol to have a reliable connection 
+success between modules. Moreover, we don't have to deal with bluetooth protocol version, which may not 
+be present or vary from one pc to the other.
 
-#.  Connect the haptic motor to the Arduino Uno board using the provided wires and connectors. 
-#.  Place the haptic motor inside the 3D printed thimble housing. 
-#.  Connect the 9V battery to the Arduino Uno board. 
-#.  Secure the thimble housing with screws. 
-#.  Connect the Arduino Uno board to a computer via USB cable and upload the code. 
-#.  Test the Simple Thimble by pressing the button on the Arduino Uno board. 

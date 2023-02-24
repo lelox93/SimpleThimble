@@ -16,11 +16,14 @@ Components
 
 Simple Thimble consists of the following components:
 
--   Arduino Uno microcontroller board
--   Haptic motor
+-   an ESP32 microcontroller
+-   an ESP8266 microcontroller (WeMoS D1 mini)
+-   a battery shield for the D1 mini board
+-   a Li-Po 3.7V battery
+-   a standard SG90 servomotor
+-   a switch
+
 -   3D printed thimble housing
--   9V battery
--   Wires and connectors
 
 Assembly Instructions
 -----------------------

@@ -15,6 +15,7 @@ New content aooooo
 
    Welcome to Simple Thimble! <Overview/intro>
    Overview/haptic-intro
+   Overview/hardware-overview
 
 .. toctree::
    :maxdepth: 2
@@ -29,7 +30,6 @@ New content aooooo
    :maxdepth: 2
    :caption: Hardware:
 
-   Hardware/hardware-overview
    Hardware/bom
    Hardware/hardware-assembly
 

@@ -23,73 +23,82 @@ Assembly Instructions
 .. note:: 
     Some assembly instructions can be swapped without affecting the final result. This is because the order of instructions does not always matter. For example, if two instructions are independent of each other, they can be swapped without changing the outcome.
 
-Step 1: Create the servomotor-pinion assembly
+Step 1: Create the servomotor-pinion assembly - cut and place the servo adapter to the pinion
 -------------------------------------------------
 
 The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+First, cut the excess extremities of the servo plastic adapter and press-fit it into 
+the pinion.
 
 .. image:: step1.gif
    :alt: step1
    :align: center
 
-Step 2: Create the servomotor-pinion assembly
+Step 2: Create the servomotor-pinion assembly - mount the pinion-adapter assembly to the motor
 -------------------------------------------------
 
-The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+This passage is straightforward, you just need to use the pinion as a modified servo adapter.
 
 .. image:: step2.gif
    :alt: step2
    :align: center
 
-Step 3: Create the servomotor-pinion assembly
+Step 3: Insert the rack and assamble with the servomotor-pinion assembly
 -------------------------------------------------
 
-The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+Once you have the servo-pinion assembly, you can mount the rack in the main box. Then, keeping 
+the rack to its final position (thimble to maximum compression), instert the servo-pinion assembly 
+making sure to engage the pinion as low as possible on the rack.
 
 .. image:: step3.gif
    :alt: step3
    :align: center
 
-Step 4: Create the servomotor-pinion assembly
+Step 4: Mount the main cover on
 -------------------------------------------------
 
-The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+Now you can mount the main cover on top of the main box by press fitting it in place.
 
 .. image:: step4.gif
    :alt: step4
    :align: center
 
-Step 5: Create the servomotor-pinion assembly
+Step 5: Secure the servomotor connection
 -------------------------------------------------
 
-The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+Cheap servomotors such as the SG-90, do not offer quality cabling, so to increase the life of such 
+servomotors it is strongly recommended to glue the cable coming out from the servo chassis to the 
+chassis itself
 
 .. image:: step5.gif
    :alt: step5
    :align: center
 
-Step 6: Create the servomotor-pinion assembly
+Step 6: insert the back cover
 -------------------------------------------------
 
-The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+Now you can insert the connector of the servomotor in the hole of the back cover. You can insert 
+the back cover on the servo but not completely, we need some space for the next step.
 
 .. image:: step6.gif
    :alt: step6
    :align: center
 
-Step 7: Create the servomotor-pinion assembly
+Step 7: Insert the velcro strip and the neoprene tape
 -------------------------------------------------
 
-The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+In the gap we left in the previous step we can now insert the suitably cut velcro strip necessary to secure 
+the thimble to the finger. After that we can add the neoprene tape to the lower part of the thimble.
 
 .. image:: step7.gif
    :alt: step7
    :align: center
 
-Step 8: Create the servomotor-pinion assembly
+Step 8: Wear the SimpleThimble!
 -------------------------------------------------
 
-The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+Now you can wear the SimpleThimble and test if the servomotor works, or with a `servo tester <https://amzn.eu/d/bgud9uM>`_, or by :ref:`programming 
+our microcontroller<onboardFirmware>`.
 
 .. image:: step8.gif
    :alt: step8

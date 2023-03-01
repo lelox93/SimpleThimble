@@ -23,6 +23,8 @@ Assembly Instructions
 .. note:: 
     Some assembly instructions can be swapped without affecting the final result. This is because the order of instructions does not always matter. For example, if two instructions are independent of each other, they can be swapped without changing the outcome.
 
+|
+|
 Step 1: Create the servomotor-pinion assembly - cut and place the servo adapter to the pinion
 -------------------------------------------------
 
@@ -32,8 +34,11 @@ the pinion.
 
 .. image:: step1.gif
    :alt: step1
+   :width: 200 px
    :align: center
 
+|
+|
 Step 2: Create the servomotor-pinion assembly - mount the pinion-adapter assembly to the motor
 -------------------------------------------------
 
@@ -41,8 +46,11 @@ This passage is straightforward, you just need to use the pinion as a modified s
 
 .. image:: step2.gif
    :alt: step2
+   :width: 200 px
    :align: center
 
+|
+|
 Step 3: Insert the rack and assamble with the servomotor-pinion assembly
 -------------------------------------------------
 
@@ -52,8 +60,11 @@ making sure to engage the pinion as low as possible on the rack.
 
 .. image:: step3.gif
    :alt: step3
+   :width: 200 px
    :align: center
 
+|
+|
 Step 4: Mount the main cover on
 -------------------------------------------------
 
@@ -63,6 +74,8 @@ Now you can mount the main cover on top of the main box by press fitting it in p
    :alt: step4
    :align: center
 
+|
+|
 Step 5: Secure the servomotor connection
 -------------------------------------------------
 
@@ -74,6 +87,8 @@ chassis itself
    :alt: step5
    :align: center
 
+|
+|
 Step 6: insert the back cover
 -------------------------------------------------
 
@@ -84,6 +99,8 @@ the back cover on the servo but not completely, we need some space for the next 
    :alt: step6
    :align: center
 
+|
+|
 Step 7: Insert the velcro strip and the neoprene tape
 -------------------------------------------------
 
@@ -94,6 +111,8 @@ the thimble to the finger. After that we can add the neoprene tape to the lower 
    :alt: step7
    :align: center
 
+|
+|
 Step 8: Wear the SimpleThimble!
 -------------------------------------------------
 
@@ -105,7 +124,7 @@ our microcontroller<onboardFirmware>`.
    :align: center
 
 |
-
+|
 Step 9: Solder connectors to the microcontroller
 -------------------------------------------------
 

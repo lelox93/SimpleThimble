@@ -34,7 +34,7 @@ the pinion.
 
 .. image:: step1.gif
    :alt: step1
-   :width: 200 px
+   :width: 350 px
    :align: center
 
 |
@@ -46,7 +46,7 @@ This passage is straightforward, you just need to use the pinion as a modified s
 
 .. image:: step2.gif
    :alt: step2
-   :width: 200 px
+   :width: 350 px
    :align: center
 
 |
@@ -60,7 +60,7 @@ making sure to engage the pinion as low as possible on the rack.
 
 .. image:: step3.gif
    :alt: step3
-   :width: 200 px
+   :width: 350 px
    :align: center
 
 |
@@ -72,6 +72,7 @@ Now you can mount the main cover on top of the main box by press fitting it in p
 
 .. image:: step4.gif
    :alt: step4
+   :width: 350 px
    :align: center
 
 |
@@ -85,6 +86,7 @@ chassis itself
 
 .. image:: step5.gif
    :alt: step5
+   :width: 350 px
    :align: center
 
 |
@@ -97,6 +99,7 @@ the back cover on the servo but not completely, we need some space for the next 
 
 .. image:: step6.gif
    :alt: step6
+   :width: 350 px
    :align: center
 
 |
@@ -109,6 +112,7 @@ the thimble to the finger. After that we can add the neoprene tape to the lower 
 
 .. image:: step7.gif
    :alt: step7
+   :width: 350 px
    :align: center
 
 |
@@ -121,6 +125,7 @@ our microcontroller<onboardFirmware>`.
 
 .. image:: step8.gif
    :alt: step8
+   :width: 350 px
    :align: center
 
 |
@@ -136,4 +141,5 @@ of the D1 mini ESP8266 board.
 
 .. image:: step9.png
    :alt: step9
+   :width: 350 px
    :align: center

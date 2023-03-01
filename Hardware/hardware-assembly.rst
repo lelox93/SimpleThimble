@@ -68,3 +68,30 @@ The first step to build our thimble is to attach the pinion to the servomotor sh
    :alt: step5
    :align: center
 
+Step 6: Create the servomotor-pinion assembly
+-------------------------------------------------
+
+The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+
+.. image:: step6.gif
+   :alt: step6
+   :align: center
+
+Step 7: Create the servomotor-pinion assembly
+-------------------------------------------------
+
+The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+
+.. image:: step7.gif
+   :alt: step7
+   :align: center
+
+Step 8: Create the servomotor-pinion assembly
+-------------------------------------------------
+
+The first step to build our thimble is to attach the pinion to the servomotor shaft. 
+
+.. image:: step8.gif
+   :alt: step8
+   :align: center
+

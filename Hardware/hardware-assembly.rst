@@ -143,3 +143,7 @@ of the D1 mini ESP8266 board.
    :alt: step9
    :width: 350 px
    :align: center
+
+|
+
+Another important thing to solder is a connector for the battery.

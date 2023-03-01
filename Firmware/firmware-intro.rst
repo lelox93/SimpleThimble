@@ -15,3 +15,23 @@ Arduino IDE 2.0
 ===============
 
 We will use one of the most simple IDEs that we can find online, and it is the `Arduino IDE 2.0 <https://docs.arduino.cc/software/ide-v2>`_.
+
+Setup the IDE
+--------------
+
+ To be able to upload codes to the ESP based boards you need to insert the link of their hardware list.
+ Go to File -> Preferences and a window will pop-up. Scroll down and find the box "Additional boards manager URLs".
+ Click on the blue icon on the rigth and add the links:
+ 
+ * ``https://dl.espressif.com/dl/package_esp32_index.json``
+ * ``https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json``
+
+|
+
+
+.. image:: test-code-preferences.gif
+   :alt: pref
+   :width: 700px
+   :align: center
+
+Now, clicking on the *Boards Manager* button on the left column you can search for all ESP based boards.

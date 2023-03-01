@@ -26,12 +26,12 @@ Setup the IDE
  * ``https://dl.espressif.com/dl/package_esp32_index.json``
  * ``https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json``
 
-|
-
 
 .. image:: test-code-preferences.gif
    :alt: pref
    :width: 700px
    :align: center
+
+|
 
 Now, clicking on the *Boards Manager* button on the left column you can search for all ESP based boards.

@@ -104,3 +104,16 @@ our microcontroller<onboardFirmware>`.
    :alt: step8
    :align: center
 
+Step 9: Solder connectors to the microcontroller
+-------------------------------------------------
+
+Our final step is to solder two male dupont connectors to our `D1 mini ESP8266 board https://amzn.eu/d/aI0mK40`_. 
+Specifically the Ground cable (usually black or brown) and the Power pin (usually red) respectively to the pin 
+G (GND or Ground) and the pin 5V of the D1 mini ESP8266 board. The control cable of the two servomotors must be 
+soldered to IO pins D5 (`GPIO https://en.wikipedia.org/wiki/General-purpose_input/output`_ 14) and D6 (GPIO 12) 
+of the D1 mini ESP8266 board.
+
+.. image:: step9.png
+   :alt: step9
+   :align: center
+

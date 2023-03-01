@@ -104,6 +104,8 @@ our microcontroller<onboardFirmware>`.
    :alt: step8
    :align: center
 
+|
+
 Step 9: Solder connectors to the microcontroller
 -------------------------------------------------
 
@@ -116,5 +118,3 @@ of the D1 mini ESP8266 board.
 .. image:: step9.png
    :alt: step9
    :align: center
-
-BAHHHH

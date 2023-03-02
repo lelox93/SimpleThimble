@@ -147,3 +147,12 @@ of the D1 mini ESP8266 board.
 |
 
 Another important thing to solder is a connector for the battery.
+The festest way to go is to cut a piece of `protoboard <https://en.wikipedia.org/wiki/Stripboard>`_ and solder both 
+the battery connector and the power cables of the servomotors to the power pins of the D1 mini board.
+
+.. image:: battery-connector.jpg
+   :alt: battery connector soldered
+   :width: 350 px
+   :align: center
+
+|

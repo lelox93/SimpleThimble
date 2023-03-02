@@ -35,3 +35,12 @@ Setup the IDE for the ESP based boards
 |
 
 Now, clicking on the *Boards Manager* button on the left column you can search for all ESP based boards.
+By writing "esp" in the search bar, you will filter boards and by scrolling down you will find both the 
+option to install ESP32 boards and ESP8266 boards, it is necessary to click install.
+
+.. image:: install-esp-board-manager.gif
+   :alt: pref
+   :width: 700px
+   :align: center
+
+|

@@ -16,8 +16,8 @@ Arduino IDE 2.0
 
 We will use one of the most simple IDEs that we can find online, and it is the `Arduino IDE 2.0 <https://docs.arduino.cc/software/ide-v2>`_.
 
-Setup the IDE
---------------
+Setup the IDE for the ESP based boards
+----------------------------------------
 
  To be able to upload codes to the ESP based boards you need to insert the link of their hardware list.
  Go to File -> Preferences and a window will pop-up. Scroll down and find the box "Additional boards manager URLs".

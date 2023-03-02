@@ -2,8 +2,28 @@ Firmware test code
 ++++++++++++++++++
 
 To familiarize with the arduino IDE and write our first **firmware code**, we will write and upload a test code into our D1 mini microcontroller.
-This code is an example of testing if your device is working as expected. 
-It will help you verify that your device is functioning correctly and that all its components are working properly. 
+This code is an example of testing if your device is working as expected.
+
+Setup the environment to program the D1 mini ESP8266 board
+============================================================
+
+To upload a code to our microcontroller it is necessary to tell the IDE on which COM port of the computer we connected our device 
+and also which board is. This is important because depending on the board the compiler will link different libraries of code and 
+also differen hardware definitions of pins. In our case we have to first connect our D1 mini ESP8266 board by using a USB micro 
+connector.
+
+.. image:: connect-board.jpg
+   :alt: connect board
+   :width: 700px
+   :align: center
+
+|
+
+
+The test code
+==============
+
+The following code will help you verify that your device is functioning correctly and that all its components are working properly. 
 This code will just move the servomotors as soon as the board is powered:
 
 .. code-block:: arduino

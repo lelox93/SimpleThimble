@@ -6,7 +6,6 @@
 Welcome to Simple Thimble documentation!
 ===================================================
 Simple Thimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
-New content aooooo
 
 
 .. toctree::
@@ -39,6 +38,7 @@ New content aooooo
 
    Firmware/firmware-intro
    Firmware/firmware-test
+   Firmware/firmware-get-mac
    Firmware/firmware-dongle
    Firmware/firmware-onboard
 ..   The final Simple Thimble onboard firmware <Firmware/firmware-onboard>

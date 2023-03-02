@@ -44,3 +44,5 @@ option to install ESP32 boards and ESP8266 boards, it is necessary to click inst
    :align: center
 
 |
+
+Now you are ready to upload your firmware codes to all possible ESP boars!

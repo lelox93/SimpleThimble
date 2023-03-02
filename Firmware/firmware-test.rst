@@ -79,3 +79,29 @@ This code will just move the servomotors as soon as the board is powered:
     void loop() {
         // loop does nothing.
     }
+
+Verify and Upload!
+==============
+
+Now that you copied the code in the text editor of the IDE you can proceed to Verify your sketch.
+
+.. image:: test-verify.gif
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|
+
+
+And after that you can click the upload button. You will notice the blue LED of the board flashing as the code is flashed 
+into the microcontroller memory and at the end of the procedure the code will be executed: as a result, our thimbles will 
+move for the first time!
+
+.. image:: test-upload.gif
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|
+
+

@@ -14,7 +14,7 @@ connector.
 
 .. image:: connect-board.jpg
    :alt: connect board
-   :width: 700px
+   :width: 350 px
    :align: center
 
 |

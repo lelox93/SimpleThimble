@@ -19,6 +19,19 @@ connector.
 
 |
 
+Now we can click on the black drop-down menù which says "Select Board" and now we can click on "Select other board and port...". 
+Another window will pop-up: in the left part there is a search bar and we can search for our specific board here. As soon as 
+we write "D1" we are left with the first option being "LOLIN(WEMOS) D1 R2 & mini", select it. In the right part of this pop-up 
+menù we can select the COM port on which we have connected the board, to identify which to select, next to one of the options 
+there is written "(USB)", select that. Now we can click "OK" and the pop-up menù will be closed, and in the bottom-right corner 
+of the IDE will now appear which board we intend to program and on what USB COM port it is.
+
+.. image:: select-board-port.gif
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|
 
 The test code
 ==============

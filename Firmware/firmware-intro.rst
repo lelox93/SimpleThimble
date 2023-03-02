@@ -29,7 +29,7 @@ Setup the IDE for the ESP based boards
 
 .. image:: test-code-preferences.gif
    :alt: pref
-   :width: 700px
+   :width: 700 px
    :align: center
 
 |
@@ -40,9 +40,9 @@ option to install ESP32 boards and ESP8266 boards, it is necessary to click inst
 
 .. image:: install-esp-board-manager.gif
    :alt: pref
-   :width: 700px
+   :width: 700 px
    :align: center
 
 |
 
-Now you are ready to upload your firmware codes to all possible ESP boars!
+Now you are ready to upload your firmware codes to all possible ESP boards!

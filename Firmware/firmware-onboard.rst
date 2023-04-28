@@ -2,9 +2,6 @@ The final Simple Thimble onboard firmware
 +++++++++++++++++++++++++++++++++++++++++++++
 .. _onboardFirmware:
 
-The dongle firmware code 
-++++++++++++++++++++++++++++
-
 This firmware enables an ESP8266 device to receive data using the ESP-NOW protocol.
 
 The code to upload to the ESP8266 device is the following:

@@ -8,6 +8,7 @@ In this way our boards will know the "ID" of the board they have to connect with
 To obtain the MAC address of our boards we can upload a very simple code, the following one is for the D1 mini with the ESP8266 microcontroller:
 
 .. code-block:: arduino
+    
     #include <Arduino.h>
     #include <ESP8266WiFi.h>
 

@@ -23,8 +23,8 @@ The code to upload tot he ESP32 dongle is the following:
 
     // Define struct containing force sensed data
     typedef struct force_data {
-    uint16_t force_sensed_index = 0;
-    uint16_t force_sensed_thumb = 0;
+        uint16_t force_sensed_index = 0;
+        uint16_t force_sensed_thumb = 0;
     };
 
     // Initialize force_data struct
@@ -109,8 +109,8 @@ The following code defines a struct named force_data which contains two variable
 
     // Define struct containing force sensed data
     typedef struct force_data {
-    uint16_t force_sensed_index = 0;
-    uint16_t force_sensed_thumb = 0;
+        uint16_t force_sensed_index = 0;
+        uint16_t force_sensed_thumb = 0;
     };
 
     // Initialize force_data struct
@@ -164,29 +164,29 @@ The following code is the loop function, which runs continuously while the devic
 .. code-block:: arduino
 
     void loop() {
-    // Check for available serial data
-    if (Serial.available() > 1) {
+        // Check for available serial data
+        if (Serial.available() > 1) {
 
-        // Read raw force sensed data from serial input
-        raw_value_index = (byte)(Serial.read());
-        raw_value_thumb = (byte)(Serial.read());
+            // Read raw force sensed data from serial input
+            raw_value_index = (byte)(Serial.read());
+            raw_value_thumb = (byte)(Serial.read());
 
-        // Map raw force sensed values to a range of 0-255
-        received_value_index = map((int)(raw_value_index), 36, 255, 0, 255);
-        received_value_thumb = map((int)(raw_value_thumb), 36, 255, 0, 255);
+            // Map raw force sensed values to a range of 0-255
+            received_value_index = map((int)(raw_value_index), 36, 255, 0, 255);
+            received_value_thumb = map((int)(raw_value_thumb), 36, 255, 0, 255);
 
-        // Store mapped force sensed values in forceData struct
-        forceData.force_sensed_index = received_value_index;
-        forceData.force_sensed_thumb = received_value_thumb;
+            // Store mapped force sensed values in forceData struct
+            forceData.force_sensed_index = received_value_index;
+            forceData.force_sensed_thumb = received_value_thumb;
 
-        // Send forceData to peer1 using ESP-NOW
-        esp_now_send(peer1.peer_addr, (uint8_t *)&forceData, sizeof(forceData));
+            // Send forceData to peer1 using ESP-NOW
+            esp_now_send(peer1.peer_addr, (uint8_t *)&forceData, sizeof(forceData));
 
-        // Print force sensed data to serial monitor
-        Serial.println("-----------------");
-        Serial.print("index finger: ");
-        Serial.print(forceData.force_sensed_index);
-        Serial.print("\tthumb: ");
-        Serial.println(forceData.force_sensed_thumb);
-    }
+            // Print force sensed data to serial monitor
+            Serial.println("-----------------");
+            Serial.print("index finger: ");
+            Serial.print(forceData.force_sensed_index);
+            Serial.print("\tthumb: ");
+            Serial.println(forceData.force_sensed_thumb);
+        }
     }

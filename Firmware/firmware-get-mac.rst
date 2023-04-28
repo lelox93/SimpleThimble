@@ -49,7 +49,7 @@ since the network controller of the microcontrollers are managed differently due
 process with the dongle board but with a slightly different code, since the board we are using is based on the ESP32:
 
 .. code-block:: arduino
-    
+
     #include <Arduino.h>
     #include <WiFi.h>
 
@@ -64,7 +64,6 @@ process with the dongle board but with a slightly different code, since the boar
     Serial.print("Mac Address: ");
     Serial.println(WiFi.macAddress());
     }
-
 
     void loop() {
     // the loop does nothing

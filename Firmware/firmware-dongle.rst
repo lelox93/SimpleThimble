@@ -10,6 +10,7 @@ using the low-power ESP-NOW protocol, which is specifically designed for IoT dev
 The code to upload tot he ESP32 dongle is the following:
 
 .. code-block:: arduino
+    
     #include <Arduino.h>
     #include <esp_now.h>
     #include <WiFi.h>

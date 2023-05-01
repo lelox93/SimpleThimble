@@ -5,8 +5,10 @@ In this section we will see how to use the SimpleThimble in a emblematic virtual
 To do this we will use `Unity <https://unity.com/>`_, one of the most popular IDEs for desinging both 2D and 3D 
 applications, such as games but also VR scenarios.
 
-In order to track movements of our hand we will use the `Leap Motion <https://www.ultraleap.com/product/leap-motion-controller/>`_, 
-a compact optical solution specialized in tracking hand movements.
+In order to track movements of our hand we will use the `Leap Motion <https://www.ultraleap.com/product/leap-motion-controller/>`_.
+The Leap Motion controller is a hand-tracking device that uses a combination of cameras and infrared sensors to track the movement 
+of hands and fingers with high accuracy and low latency. 
+
 
 .. image:: leap-motion.jpg
    :alt: pref

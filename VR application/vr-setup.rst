@@ -21,6 +21,14 @@ Install Leap Motion softwares
 ==============================
 
 We will need a specific version of the Leap Motion called Orion, since this developer kit is known to work beatifully with the Unity packages.
-To download Leap Motion Orion 4.1.0 click `here <https://developer-archive.leapmotion.com/downloads/external/v4-1-hand-tracking/windows?version=4.1.0>`_.
+To download **Leap Motion Orion 4.1.0** click `here <https://developer-archive.leapmotion.com/downloads/external/v4-1-hand-tracking/windows?version=4.1.0>`_.
 
 Now you can attach your Leap Motion to the PC and launch the Leap Motion visualizer to chech that is woking properly.
+You should see this:
+
+.. image:: leap-visual.gif
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|

@@ -48,6 +48,7 @@ Simple Thimble is the first *open-source* and *low-cost* project to build your *
    :caption: VR application:
 
    VR application/vr-intro
+   VR application/vr-setup
 ..   The final Simple Thimble onboard firmware <Firmware/firmware-onboard>
 
 

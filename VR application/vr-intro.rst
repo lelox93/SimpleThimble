@@ -1,4 +1,4 @@
-VR application: how to use the SimpleThimble in virtual reality
+VR application: how we will use the SimpleThimble in virtual reality
 +++++++++++++++++++++++++++++++++++++++++++++
 
 In this section we will see how to use the SimpleThimble in a emblematic virtual reality (VR) application: grasping a virtual cube. 
@@ -14,3 +14,5 @@ a compact optical solution specialized in tracking hand movements.
    :align: center
 
 |
+
+In the next page we will set up all softwares necessary to use our new device in the VR!

@@ -42,6 +42,12 @@ Simple Thimble is the first *open-source* and *low-cost* project to build your *
    Firmware/firmware-dongle
    Firmware/firmware-onboard
    Firmware/firmware-final-test
+
+.. toctree::
+   :maxdepth: 2
+   :caption: VR application:
+
+   VR application/vr-intro
 ..   The final Simple Thimble onboard firmware <Firmware/firmware-onboard>
 
 

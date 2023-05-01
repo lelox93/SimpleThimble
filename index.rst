@@ -41,6 +41,7 @@ Simple Thimble is the first *open-source* and *low-cost* project to build your *
    Firmware/firmware-get-mac
    Firmware/firmware-dongle
    Firmware/firmware-onboard
+   Firmware/firmware-final-test
 ..   The final Simple Thimble onboard firmware <Firmware/firmware-onboard>
 
 

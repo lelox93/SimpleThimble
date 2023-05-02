@@ -47,7 +47,7 @@ Now click on ``Game`` then ``Maximize on play`` and the click the play button.
 |
 
 Now you should be able to see your hand in the scene when moving your hand on top of the Leap Motion.
-By powering the thimbles and touching the cube in the VR they should move as shown hereafter:
+By battery powering the thimbles and touching the cube in the VR they should move as shown hereafter:
 
 .. image:: unity-live-thimble-test.gif
    :alt: pref
@@ -56,6 +56,16 @@ By powering the thimbles and touching the cube in the VR they should move as sho
 
 |
 
-The final step is to wear the thimbles, power them on with the battery and you will feel the cutaneous haptics 
-of touching the virtual cube!
+The final step is to wear the thimbles, grasp the red cube and you will feel the cutaneous haptic feedback 
+of touching the virtual cube! If the cube falls outside the workspace of the Leap Motion you can press the 
+button "r" on your keyboard to reset the cube to its initial position.
+
+.. image:: unity-grasping.gif
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|
+
+
 

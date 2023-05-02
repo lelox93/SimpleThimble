@@ -47,6 +47,15 @@ Now click on ``Game`` then ``Maximize on play`` and the click the play button.
 |
 
 Now you should be able to see your hand in the scene when moving your hand on top of the Leap Motion.
+By powering the thimbles and touching the cube in the VR they should move as shown hereafter:
+
+.. image:: unity-live-thimble-test.gif
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|
+
 The final step is to wear the thimbles, power them on with the battery and you will feel the cutaneous haptics 
 of touching the virtual cube!
 

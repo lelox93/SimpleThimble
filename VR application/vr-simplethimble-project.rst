@@ -13,3 +13,12 @@ Make sure to open the project in unity hub and select the correct version of the
    :align: center
 
 |
+
+once you opened the project you should see this page of the IDE:
+
+.. image:: unityenv.png
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|

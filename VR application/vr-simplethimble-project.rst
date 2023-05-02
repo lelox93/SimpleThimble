@@ -35,4 +35,13 @@ ESP32 based dongle.
 
 |
 
-In this case my dongle was numbered as COM21.
+In this case my dongle was numbered as **COM21**.
+Now make sure to connect both the ESP32 dongle and the Leap Motion to your computer and then open the Unity project. 
+Now click on ``Game`` then ``Maximize on play`` and the click the play button.
+
+.. image:: unity-first-play.gif
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|

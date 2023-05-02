@@ -22,3 +22,17 @@ once you opened the project you should see this page of the IDE:
    :align: center
 
 |
+
+Now the only important thing to do is to insert the correct number of COM port inside the C# script that you will find in the 
+path *"Assets/espwrite.cs"*. You can open it by double clicking its icon in the project folder box of the IDE and this will be opened in 
+Visual studio IDE. you should modify the COM number which is at line 14, according to the enumeration you computer gave to the 
+ESP32 based dongle.
+
+.. image:: COMchange.png
+   :alt: pref
+   :width: 700 px
+   :align: center
+
+|
+
+In this case my dongle was numbered as COM21.

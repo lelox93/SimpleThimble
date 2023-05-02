@@ -81,4 +81,3 @@ features such as haptic feedback and two-handed interactions.
 You will need the interaction engine version **1.1.1** which you can download  `here <https://github.com/ultraleap/UnityPlugin/releases/download/Release-InteractionEngine-1.1.1/Leap_Motion_Interaction_Engine_1.1.1.unitypackage>`_
 
 Now we are ready to download the Unity project for the SimpleThimble!
-ciao tommi

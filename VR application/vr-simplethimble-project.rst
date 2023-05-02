@@ -45,3 +45,8 @@ Now click on ``Game`` then ``Maximize on play`` and the click the play button.
    :align: center
 
 |
+
+Now you should be able to see your hand in the scene when moving your hand on top of the Leap Motion.
+The final step is to wear the thimbles, power them on with the battery and you will feel the cutaneous haptics 
+of touching the virtual cube!
+

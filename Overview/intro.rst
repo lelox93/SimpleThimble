@@ -13,9 +13,9 @@ assemble and use, and can be used with ``Unity`` virtual environment development
 Features
 -------------------------------------------------------
 
+* Open-source: All the hardware and software components are open-source, so you can customize the device to your needs. 
 * Low-cost: Simple Thimble is designed to be affordable, so anyone can build 
   their own force feedback device. 
-* Open-source: All the hardware and software components are open-source, so you can customize the device to your needs. 
 * Easy to assemble: The device is designed to be easy to assemble, so you 
   don't need any special tools or skills. 
 * Compatible with Unity: Simple Thimble is compatible with Unity virtual 

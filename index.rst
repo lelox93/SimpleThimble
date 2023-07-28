@@ -11,7 +11,7 @@ ENG ITA
 .. image:: flags.png
    :alt: Haptic Device
    :width: 30 px
-   :align: center
+   :align: left
 
 
 AugmentedWearEdu

@@ -2,6 +2,11 @@
 Welcome to Simple Thimble!
 +++++++++++++++++++++++++++++++++++++++++
 
+ENG ITA
+.. image:: flags.png
+   :alt: Haptic Device
+   :align: center
+
 **Simple Thimble** is an *open-source* and *low-cost* project to build your own VR-enabled force feedback device. It is designed to be easy to 
 assemble and use, and can be used with ``Unity`` virtual environment development platform. Moreover the :ref:`3D models<3dPrintingIntro>` for this device can be downloaded from this guide and 3D printed at home!
 

@@ -5,6 +5,20 @@
 
 Welcome to Simple Thimble documentation!
 ===================================================
+
+ENG ITA
+
+.. image:: flags.png
+   :alt: Haptic Device
+   :align: center
+
+
+AugmentedWearEdu
+
+.. image:: flags.png
+   :alt: Haptic Device
+   :align: center
+
 Simple Thimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
 
 

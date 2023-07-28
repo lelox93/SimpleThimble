@@ -10,12 +10,13 @@ ENG ITA
 
 .. image:: flags.png
    :alt: Haptic Device
+   :width: 30 px
    :align: center
 
 
 AugmentedWearEdu
 
-.. image:: flags.png
+.. image:: augm.png
    :alt: Haptic Device
    :align: center
 

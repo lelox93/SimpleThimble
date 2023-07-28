@@ -14,7 +14,6 @@ ENG ITA
    :align: left
 
 
-AugmentedWearEdu
 
 .. image:: augm.png
    :alt: Haptic Device

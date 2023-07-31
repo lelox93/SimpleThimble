@@ -22,6 +22,34 @@ ENG ITA
 
 
 
+.. image:: immagine_bandierine/Norway.png
+   :alt: Lithuania flag
+   :width: 30 px
+   :align: left
+
+
+
+.. image:: immagine_bandierine/Portugal.png
+   :alt: Lithuania flag
+   :width: 30 px
+   :align: left
+
+
+
+.. image:: immagine_bandierine/Romania.png
+   :alt: Lithuania flag
+   :width: 30 px
+   :align: left
+
+
+
+.. image:: immagine_bandierine/United_Kingdom.png
+   :alt: Lithuania flag
+   :width: 30 px
+   :align: left
+
+
+
 .. image:: augm.png
    :alt: Haptic Device
    :align: center

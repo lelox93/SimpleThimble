@@ -8,8 +8,15 @@ Welcome to Simple Thimble documentation!
 
 ENG ITA
 
-.. image:: flags.png
-   :alt: Haptic Device
+.. image:: immagine_bandierine/Italy.png
+   :alt: Italy flag
+   :width: 30 px
+   :align: left
+
+
+
+.. image:: immagine_bandierine/Lithuania.png
+   :alt: Lithuania flag
    :width: 30 px
    :align: left
 

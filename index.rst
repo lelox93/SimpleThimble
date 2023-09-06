@@ -8,6 +8,12 @@ Welcome to Simple Thimble documentation!
 
 ENG ITA
 
+.. |ImageLink| image:: /immagine_bandierine/Italy.png
+.. _ImageLink: https://simplethimble.readthedocs.io/en/latest/
+   :alt: Italy flag
+   :width: 30 px
+   :align: left
+
 .. image:: immagine_bandierine/Italy.png
    :alt: Italy flag
    :width: 30 px

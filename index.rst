@@ -20,6 +20,7 @@ ENG ITA
    :alt: Lithuania flag
    :width: 30 px
    :align: left
+   :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
@@ -27,6 +28,7 @@ ENG ITA
    :alt: Lithuania flag
    :width: 30 px
    :align: left
+   :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
@@ -34,6 +36,7 @@ ENG ITA
    :alt: Lithuania flag
    :width: 30 px
    :align: left
+   :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
@@ -41,6 +44,7 @@ ENG ITA
    :alt: Lithuania flag
    :width: 30 px
    :align: left
+   :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
@@ -48,6 +52,7 @@ ENG ITA
    :alt: Lithuania flag
    :width: 30 px
    :align: left
+   :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 

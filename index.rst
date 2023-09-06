@@ -10,9 +10,6 @@ ENG ITA
 
 .. image:: immagine_bandierine/Italy.png
    :target: https://simplethimble.readthedocs.io/en/latest/
-   :alt: Italy flag
-   :width: 30 px
-   :align: left
 
 
 

@@ -49,7 +49,7 @@ Welcome to Simple Thimble documentation!
 
 
 
-   .. image:: immagine_bandierine/United_Kingdom.png
+.. image:: immagine_bandierine/United_Kingdom.png
       :alt: Lithuania flag
       :width: 30 px
       :align: left

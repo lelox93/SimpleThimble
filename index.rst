@@ -9,7 +9,7 @@ Welcome to Simple Thimble documentation!
 
 .. ENG ITA
 
-.. image:: immagine_bandierine/Italy.png
+.. .. image:: immagine_bandierine/Italy.png
    :alt: ita flag
    :width: 30 px
    :align: left
@@ -17,43 +17,43 @@ Welcome to Simple Thimble documentation!
 
 
 
-.. image:: immagine_bandierine/Lithuania.png
-   :alt: Lithuania flag
-   :width: 30 px
-   :align: left
-   :target: https://simplethimble.readthedocs.io/en/latest/
+   .. image:: immagine_bandierine/Lithuania.png
+      :alt: Lithuania flag
+      :width: 30 px
+      :align: left
+      :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
-.. image:: immagine_bandierine/Norway.png
-   :alt: Lithuania flag
-   :width: 30 px
-   :align: left
-   :target: https://simplethimble.readthedocs.io/en/latest/
+   .. image:: immagine_bandierine/Norway.png
+      :alt: Lithuania flag
+      :width: 30 px
+      :align: left
+      :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
-.. image:: immagine_bandierine/Portugal.png
-   :alt: Lithuania flag
-   :width: 30 px
-   :align: left
-   :target: https://simplethimble.readthedocs.io/en/latest/
+   .. image:: immagine_bandierine/Portugal.png
+      :alt: Lithuania flag
+      :width: 30 px
+      :align: left
+      :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
-.. image:: immagine_bandierine/Romania.png
-   :alt: Lithuania flag
-   :width: 30 px
-   :align: left
-   :target: https://simplethimble.readthedocs.io/en/latest/
+   .. image:: immagine_bandierine/Romania.png
+      :alt: Lithuania flag
+      :width: 30 px
+      :align: left
+      :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 
-.. image:: immagine_bandierine/United_Kingdom.png
-   :alt: Lithuania flag
-   :width: 30 px
-   :align: left
-   :target: https://simplethimble.readthedocs.io/en/latest/
+   .. image:: immagine_bandierine/United_Kingdom.png
+      :alt: Lithuania flag
+      :width: 30 px
+      :align: left
+      :target: https://simplethimble.readthedocs.io/en/latest/
 
 
 

@@ -9,7 +9,7 @@ Welcome to Simple Thimble documentation!
 
 .. ENG ITA
 
-..   .. image:: immagine_bandierine/Italy.png
+   .. image:: immagine_bandierine/Italy.png
       :alt: ita flag
       :width: 30 px
       :align: left

@@ -61,7 +61,7 @@ Welcome to Simple Thimble documentation!
    :alt: Haptic Device
    :align: center
 
-Simple Thimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
+SimpleThimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
 
 
 .. toctree::

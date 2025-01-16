@@ -1,4 +1,4 @@
-VR application BROGI: how we will use the SimpleThimble in virtual reality
+VR application: how we will use the SimpleThimble in virtual reality
 +++++++++++++++++++++++++++++++++++++++++++++
 
 In this section we will see how to use the SimpleThimble in a emblematic virtual reality (VR) application: grasping a virtual cube. 

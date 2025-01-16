@@ -68,7 +68,8 @@ SimpleThimble is the first *open-source* and *low-cost* project to build your **
    :maxdepth: 2
    :caption: Overview:
 
-   Welcome to Simple Thimble! <Overview/intro>
+   Welcome to Simple Thimble! 
+   <Overview/intro>
    chapters/Overview/haptic-intro
    chapters/Overview/hardware-overview
 

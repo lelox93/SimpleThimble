@@ -104,7 +104,6 @@ SimpleThimble is the first *open-source* and *low-cost* project to build your **
    :caption: VR application:
 
    chapters/VR application/vr-intro
-   chapters/VR application/vr-setup
    chapters/VR application/vr-desktop
    chapters/VR application/vr-leap
    chapters/VR application/vr-oculus

@@ -5,7 +5,7 @@ The Oculus Quest is a standalone VR headset made by `Meta <https://meta.com/>`_ 
 
 .. image:: oculus-quest.png
    :alt: pref
-   :width: 700 px
+   :width: 400 px
    :align: center
 
 |
@@ -26,9 +26,7 @@ Before you begin, ensure that you have the following:
 Step 1: Install Oculus Software
 -------------------------------
 
-### Oculus PC App (For Oculus Link)
-
-Download and install the Oculus PC app. This is required for linking your Oculus device to your PC for development.
+Download and install the Oculus PC app (for Oculus Link). This is required for linking your Oculus device to your PC for development.
 
 - **Download link:** `https://www.meta.com/quest/setup/ <https://www.meta.com/quest/setup/>`_
 

@@ -7,10 +7,8 @@ The Leap Motion controller is a hand-tracking device that uses a combination of 
    :alt: Leap Motion Controller
    :width: 700 px
    :align: center
+|
 
-
-Installing Leap Motion Software
-===============================
 
 This guide explains how to set up Leap Motion hand tracking with Unity using the Leap Motion Unity Modules, Core Assets, and Interaction Engine.
 
@@ -39,9 +37,9 @@ After installation, attach your Leap Motion to the PC and launch the Leap Motion
    :width: 700 px
    :align: center
 
+|
 
-Installing Leap Motion Unity Modules
-=====================================
+The following steps will guide you through setting up the SimpleThimble Unity project with Leap Motion hand tracking.
 
 Step 1: Download and Open the SimpleThimble Unity Project
 ---------------------------------------------------------
@@ -146,7 +144,7 @@ Wear the SimpleThimble devices, grasp the red cube in the scene, and feel the cu
 
 
 Additional Resources
-=====================
+--------------------
 
 - `Leap Motion Developer Documentation <https://developer.leapmotion.com/>`_
 - `Unity Asset Store <https://assetstore.unity.com/>`_
@@ -154,7 +152,7 @@ Additional Resources
 
 
 Troubleshooting
-===============
+---------------
 
 1. Verify the Leap Motion Controller and ESP32 dongle are properly connected.
 2. Ensure you are using the correct Unity version and modules.

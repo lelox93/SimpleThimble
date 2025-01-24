@@ -1,17 +1,14 @@
-VR Application: Grasp a Virtual Object through the Use of the Oculus Quest
+VR Application: Oculus Quest
 ==========================================================================
 
-The Oculus Quest is a standalone VR headset made by `Meta <https://meta.com/>`_ that does not require a computer to run. It is a great device for VR applications, as it is wireless and has a good tracking system. The Oculus Quest uses inside-out tracking, which means that it uses cameras on the headset to track the position of the user in the physical space. This allows for a more immersive and interactive VR experience, as the user can move around freely without being tethered to a computer.
+The Oculus Quest is a standalone VR headset made by `Meta <https://meta.com/>`_ that does not require a computer to run. It is a great device for VR applications, as it is wireless and has a good tracking system. The Oculus Quest uses inside-out tracking, which means that it uses cameras on the headset to track the position of the user in the physical space. This allows for a more immersive and interactive VR experience, as the user can move around freely without being tethered to a computer. The following image shows the application played with the Oculus Quest 2 headset:
 
-.. image:: oculus-quest.png
+.. image:: oculus_app.png
    :alt: pref
-   :width: 400 px
+   :width: 700 px
    :align: center
 
 |
-
-Install Oculus Software
-========================
 
 Prerequisites
 -------------
@@ -19,9 +16,9 @@ Prerequisites
 Before you begin, ensure that you have the following:
 
 - A PC with Windows 10 or later (macOS is not supported for Oculus development with Unity).
-- An Oculus Quest, Quest 2, or Rift headset.
+- An Oculus Quest 2, Quest 3, or Pro headset.
 - A compatible USB cable (e.g., Oculus Link cable or USB 3.0 cable for Quest devices).
-- Unity installed on your PC.
+- Unity Hub installed on your PC.
 
 Step 1: Install Oculus Software
 -------------------------------
@@ -42,7 +39,7 @@ Step 2: Enable Developer Mode
    - **Download link:** `https://developer.oculus.com/downloads/ <https://developer.oculus.com/downloads/>`_
 
 2. Log in with your Meta (Oculus) developer account.
-   - If you don’t have one, create it here: `https://developer.oculus.com/sign-up/ <https://developer.oculus.com/sign-up/>`_
+   - If you do not have one, create it here: `https://developer.oculus.com/sign-up/ <https://developer.oculus.com/sign-up/>`_
 
 3. Connect your Oculus device to the Meta Quest Developer Hub and toggle **Developer Mode** on.
 
@@ -77,5 +74,4 @@ Step 5: Configure Unity for VR Development
 Step 6: Download the SimpleThimble Oculus Project
 ------------------------------------------------
 
-
-
+TO DO 

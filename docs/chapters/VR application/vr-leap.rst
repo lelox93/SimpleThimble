@@ -1,4 +1,4 @@
-VR Application: Grasp a Virtual Object Using Leap Motion
+VR Application: Leap Motion
 =======================================================
 
 The Leap Motion controller is a hand-tracking device that uses a combination of cameras and infrared sensors to track the movement of hands and fingers with high accuracy and low latency.

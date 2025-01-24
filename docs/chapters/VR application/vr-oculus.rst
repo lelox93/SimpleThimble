@@ -20,7 +20,7 @@ Before you begin, ensure that you have the following:
 - A compatible USB cable (e.g., Oculus Link cable or USB 3.0 cable for Quest devices).
 - Unity Hub installed on your PC.
 
-Step 1: Install Oculus Software
+**Step 1**: Install Oculus Software
 -------------------------------
 
 Download and install the Oculus PC app (for Oculus Link). This is required for linking your Oculus device to your PC for development.
@@ -32,7 +32,7 @@ After installation:
 1. Open the app and follow the instructions to set up your Oculus device.
 2. Enable **Developer Mode** in the Oculus app on your smartphone (instructions in Step 2).
 
-Step 2: Enable Developer Mode
+**Step 2**: Enable Developer Mode
 -----------------------------
 
 1. Install the **Meta Quest Developer Hub** on your PC:
@@ -43,7 +43,7 @@ Step 2: Enable Developer Mode
 
 3. Connect your Oculus device to the Meta Quest Developer Hub and toggle **Developer Mode** on.
 
-Step 3: Install Unity
+**Step 3**: Install Unity
 ---------------------
 
 1. From Unity Hub, install a Unity Editor version compatible with the Oculus Integration SDK.
@@ -53,7 +53,7 @@ Step 3: Install Unity
    - **Android Build Support** (for Quest and Quest 2 development)
    - **Windows Build Support (IL2CPP)** (for Rift development)
 
-Step 4: Install Oculus Integration in Unity
+**Step 4**: Install Oculus Integration in Unity
 -------------------------------------------
 
 1. Open Unity and create a new 3D project.
@@ -62,7 +62,7 @@ Step 4: Install Oculus Integration in Unity
 3. Search for **Oculus Integration** and download/import it into your project.
    - **Link to Oculus Integration:** `https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022 <https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022>`_
 
-Step 5: Configure Unity for VR Development
+**Step 5**: Configure Unity for VR Development
 ------------------------------------------
 
 1. Go to **Edit > Project Settings > XR Plug-in Management** and enable **Oculus**.
@@ -71,7 +71,7 @@ Step 5: Configure Unity for VR Development
      - **Virtual Reality Supported** (for older Unity versions).
      - Set the scripting backend to **IL2CPP**.
 
-Step 6: Download the SimpleThimble Oculus Project
+**Step 6**: Download the SimpleThimble Oculus Project
 ------------------------------------------------
 
 TO DO 

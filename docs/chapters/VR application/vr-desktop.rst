@@ -24,7 +24,7 @@ Before you begin, ensure that you have the following:
 **Step 1**: Download and Open the SimpleThimble Unity Project
 ---------------------------------------------------------
 
-**Download the SimpleThimble Unity package**: `Download here <SimpleThimble_desktopApp.unitypackage>`_.
+**Download the SimpleThimble Unity package**: :download:` here <SimpleThimble_desktopApp.unitypackage>`.
 
 **Open the Project in Unity**:  
    - Open **Unity Hub**.

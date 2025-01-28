@@ -79,7 +79,7 @@ After installation:
 **Step 6**: Download the SimpleThimble Oculus Unity Package
 ------------------------------------------------
 
-1. Download the SimpleThimble Oculus Unity package: `Download here <SimpleThimble_OculusApp.unitypackage>`_.
+1. Download the SimpleThimble Oculus Unity package: :download:`here <SimpleThimble_OculusApp.unitypackage>`.
 2. Import the package into Unity by dragging and dropping it into the **Assets** folder of your project.
 3. In the Project window, navigate to the ``Scenes`` folder and open the Oculus demo.
 
@@ -91,7 +91,7 @@ After installation:
 **Step 7**: Connect the SimpleThimble via UDP and Run the Project
 ----------------------------------------
 
-1. Download the firmware for the standalone version of the SimpleThimble: `Download here <SimpleThimble_standaloneFirmware.rar>`_.
+1. Download the firmware for the standalone version of the SimpleThimble: :download:`here <SimpleThimble_standaloneFirmware.rar>`.
 2. Connect the ESP8266 to your computer and upload the firmware using Arduino IDE.
 3. Turn on the thimble and connect to the network ``simplethimble`` using the password ``password``.
 4. Run the project in Unity. The following scene should appear:

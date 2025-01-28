@@ -23,12 +23,12 @@ Ensure you have the following:
 - **Software Tools**: Unity Hub, Visual Studio (for script editing).
 
 
-Downloading Leap Motion Orion
+Downloading Leap Motion Gemini
 -----------------------------
 
-We will need a specific version of Leap Motion called Orion, as this developer kit integrates well with Unity packages.
+We will need a specific version of Leap Motion called Gemini, as this developer kit integrates well with Unity packages.
 
-To download **Leap Motion Orion 4.1.0**, click `here <https://developer-archive.leapmotion.com/downloads/external/v4-1-hand-tracking/windows?version=4.1.0>`_.
+To download **Leap Motion Gemini 5.20.0**, click `here <https://leap2.ultraleap.com/downloads/leap-motion-controller/>`_.
 
 After installation, attach your Leap Motion to the PC and launch the Leap Motion visualizer to ensure it is working correctly. You should see an interface similar to this:
 
@@ -45,7 +45,7 @@ The following steps will guide you through setting up the SimpleThimble Unity pr
 ---------------------------------------------------------
 
 1. **Download the SimpleThimble Project**:  
-   `Download here <Simplethimble_leapProject.rar>`_.
+   :download:`here <Simplethimble_leapProject.rar>`.
 2. **Extract the Folder**:  
    Extract the ``Simplethimble_leapProject`` folder from the compressed file.
 3. **Open the Project in Unity**:  
@@ -77,33 +77,33 @@ After opening the project, you should see a Unity IDE environment similar to thi
 
 4. Save the changes and return to Unity.
 
-.. note::
-   In case same drivers are missing, we suggest following the optional step below. Otherwise, you can directly go to **Step 3**. 
-|
+
+..    In case same drivers are missing, we suggest following the optional step below. Otherwise, you can directly go to **Step 3**. 
+.. |
 
 
-**[Optional]**: Install Leap Motion Unity Modules
------------------------------------------
+.. **[Optional]**: Install Leap Motion Unity Modules
+.. -----------------------------------------
 
-1. **Download and Import Leap Motion Unity Modules**:
-   - **Version 4.8.0**: `Download here <https://www2.leapmotion.com/downloads/unity-modules/v4.8.0>`_.
-   - Import into Unity:
-     - Go to **Assets > Import Package > Custom Package**.
-     - Select the ``.unitypackage`` file and follow the prompts.
+.. 1. **Download and Import Leap Motion Unity Modules**:
+..    - **Version 4.8.0**: `Download here <https://www2.leapmotion.com/downloads/unity-modules/v4.8.0>`_.
+..    - Import into Unity:
+..      - Go to **Assets > Import Package > Custom Package**.
+..      - Select the ``.unitypackage`` file and follow the prompts.
 
-2. **Install Leap Motion Core Assets**:
-   - **Version 4.3.4**: `Download here <https://github.com/ultraleap/UnityPlugin/releases/download/Release-CoreAsset-4.3.4/Leap_Motion_Core_Assets_4.3.4.unitypackage>`_.
-   - Import into Unity using the same process as above.
+.. 2. **Install Leap Motion Core Assets**:
+..    - **Version 4.3.4**: `Download here <https://github.com/ultraleap/UnityPlugin/releases/download/Release-CoreAsset-4.3.4/Leap_Motion_Core_Assets_4.3.4.unitypackage>`_.
+..    - Import into Unity using the same process as above.
 
-3. **Install Leap Motion Interaction Engine**:
-   - **Version 1.1.1**: `Download here <https://github.com/ultraleap/UnityPlugin/releases/download/Release-InteractionEngine-1.1.1/Leap_Motion_Interaction_Engine_1.1.1.unitypackage>`_.
-   - Import into Unity.
+.. 3. **Install Leap Motion Interaction Engine**:
+..    - **Version 1.1.1**: `Download here <https://github.com/ultraleap/UnityPlugin/releases/download/Release-InteractionEngine-1.1.1/Leap_Motion_Interaction_Engine_1.1.1.unitypackage>`_.
+..    - Import into Unity.
 
-4. **Add Leap Motion Components to Your Scene**:
-   - Add the **LeapXRServiceProvider** prefab to your scene.
-   - Configure Unity's XR settings:
-     - Go to **Edit > Project Settings > XR Plug-in Management**.
-     - Ensure the project is compatible with your VR platform.
+.. 4. **Add Leap Motion Components to Your Scene**:
+..    - Add the **LeapXRServiceProvider** prefab to your scene.
+..    - Configure Unity's XR settings:
+..      - Go to **Edit > Project Settings > XR Plug-in Management**.
+..      - Ensure the project is compatible with your VR platform.
 
 
 **Step 3**: Test SimpleThimble with Leap Motion
@@ -145,15 +145,7 @@ Wear the SimpleThimble devices, grasp the red cube in the scene, and feel the cu
    :alt: Grasping the Cube
    :width: 700 px
    :align: center
-
-
-Additional Resources
---------------------
-
-- `Leap Motion Developer Documentation <https://developer.leapmotion.com/>`_
-- `Unity Asset Store <https://assetstore.unity.com/>`_
-- `Unity Tutorials for VR Development <https://learn.unity.com/>`_
-
+|
 
 Troubleshooting
 ---------------

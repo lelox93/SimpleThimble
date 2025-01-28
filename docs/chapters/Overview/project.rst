@@ -9,7 +9,6 @@ The main objective of project is to introduce a novel framework for e-Learning c
    :align: center
 |
 
-
 One of the biggest drawbacks of the majority of E-learning existing solutions, is that limited support is provided to hands-on laboratory work and practical experiences. Hands-on experiences are essential to significantly advance learning, especially in science, technology, engineering, and mathematics (STEM) departments. The project AugmentedWearEdu will make it possible to engage students in a fully-immersive 3D virtual/augmented educational environment, contributing to performing lab work in a fully-immersive, open, and, most importantly, distance laboratory learning. 
 
 Within this project, the SimpleThimble device will be used to provide haptic feedback to the user, allowing them to feel the virtual environment in a realistic way. The device will be used in combination with VR tools to create a fully immersive learning experience.

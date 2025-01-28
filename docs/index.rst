@@ -57,7 +57,12 @@ Welcome to Simple Thimble documentation!
 
 
 SimpleThimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
-The device is sponsored by **AugmentedWearEdu** project.
+The device is sponsored by **AugmentedWearEdu** project and developed by **SirsLab** (Siena Robotics and System Lab) of the University of Siena.
+
+.. image:: logo_sirslab.png
+   :alt: pref
+   :align: center
+|
 
 .. toctree::
    :maxdepth: 2

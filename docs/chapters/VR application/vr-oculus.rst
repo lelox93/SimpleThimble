@@ -91,7 +91,7 @@ After installation:
 **Step 7**: Connect the SimpleThimble via UDP and Run the Project
 ----------------------------------------
 
-1. Download the firmware for the standalone version of the SimpleThimble: :download:`here <SimpleThimble_standaloneFirmware.rar>`.
+1. Download the firmware for the standalone version of the SimpleThimble: :download:`here <SimpleThimble_standaloneFirm.rar>`.
 2. Connect the ESP8266 to your computer and upload the firmware using Arduino IDE.
 3. Turn on the thimble and connect to the network ``simplethimble`` using the password ``password``.
 4. Run the project in Unity. The following scene should appear:

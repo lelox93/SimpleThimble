@@ -59,7 +59,7 @@ After opening the project, you should see a Unity IDE environment similar to thi
    :alt: Unity IDE
    :width: 700 px
    :align: center
-
+|   
 
 **Step 2**: Configure the ESP32 Dongle for SimpleThimble
 ----------------------------------------------------

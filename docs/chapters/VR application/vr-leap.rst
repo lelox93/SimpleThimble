@@ -41,16 +41,16 @@ After installation, attach your Leap Motion to the PC and launch the Leap Motion
 
 The following steps will guide you through setting up the SimpleThimble Unity project with Leap Motion hand tracking.
 
-Step 1: Download and Open the SimpleThimble Unity Project
+**Step 1**: Download and Open the SimpleThimble Unity Project
 ---------------------------------------------------------
 
 1. **Download the SimpleThimble Project**:  
-   `Download here <simplethimble.rar>`_.
+   `Download here <Simplethimble_leapProject.rar>`_.
 2. **Extract the Folder**:  
-   Extract the ``simplethimble`` folder from the compressed file.
+   Extract the ``Simplethimble_leapProject`` folder from the compressed file.
 3. **Open the Project in Unity**:  
    - Open **Unity Hub**.
-   - Add the extracted project folder.
+   - Add the extracted project folder as project from disk.
    - Select **Unity 2020.3.28f1** as the version for the project.
 
 After opening the project, you should see a Unity IDE environment similar to this:
@@ -61,7 +61,7 @@ After opening the project, you should see a Unity IDE environment similar to thi
    :align: center
 
 
-Step 2: Configure the ESP32 Dongle for SimpleThimble
+**Step 2**: Configure the ESP32 Dongle for SimpleThimble
 ----------------------------------------------------
 
 1. Locate the C# script ``espwrite.cs`` in the Unity Project:
@@ -77,8 +77,12 @@ Step 2: Configure the ESP32 Dongle for SimpleThimble
 
 4. Save the changes and return to Unity.
 
+.. note::
+   In case same drivers are missing, we suggest following the optional step below. Otherwise, you can directly skip to the **Step 3**. 
+|
 
-Step 3: Install Leap Motion Unity Modules
+
+**[Optional]**: Install Leap Motion Unity Modules
 -----------------------------------------
 
 1. **Download and Import Leap Motion Unity Modules**:
@@ -102,7 +106,7 @@ Step 3: Install Leap Motion Unity Modules
      - Ensure the project is compatible with your VR platform.
 
 
-Step 4: Test SimpleThimble with Leap Motion
+**Step 3**: Test SimpleThimble with Leap Motion
 -------------------------------------------
 
 1. **Connect Devices**:

@@ -18,5 +18,10 @@ Here are the three applications we will develop:
    vr-desktop
    vr-leap
    vr-oculus
+|
+
+.. note::
+   The following tutorials differ from the the level of expertise required. The first one is the simplest, as it does not require any additional hardware. The second one requires the use of the Leap Motion controller, while the third one requires the use of the Oculus Quest. Moreover, the tutorials are structured in a way that each one can be followed independently of the others.
+|
 
 In the next page we will set up all softwares necessary to use our new device in the VR!

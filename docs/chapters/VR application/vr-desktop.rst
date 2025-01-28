@@ -10,8 +10,9 @@ This project aims at get acquainted with the SimpleThimble without using any tra
 
 |
 
-In order to adapt the SimpleThimble for the following demo, we have to unplug the thimble used on the thumb finger and only use the thimble for the index finger. 
-
+.. note::
+   To adapt the SimpleThimble for the following demo, unplug the thimble used on the thumb and use only the thimble for the index.
+|
 
 Prerequisites
 -------------

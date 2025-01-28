@@ -79,7 +79,7 @@ After installation:
 **Step 6**: Download the SimpleThimble Oculus Unity Package
 ------------------------------------------------
 
-1. Download the SimpleThimble Oculus Unity package: :download:`here <SimpleThimble_OculusApp.unitypackage>`.
+1. Download the SimpleThimble Oculus Unity package: :download:`here <SimpleThimble_oculusApp.unitypackage>`.
 2. Import the package into Unity by dragging and dropping it into the **Assets** folder of your project.
 3. In the Project window, navigate to the ``Scenes`` folder and open the Oculus demo.
 

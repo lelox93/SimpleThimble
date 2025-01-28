@@ -45,7 +45,7 @@ The following steps will guide you through setting up the SimpleThimble Unity pr
 ---------------------------------------------------------
 
 1. **Download the SimpleThimble Project**:  
-   :download:`here <Simplethimble_leapProject.rar>`.
+   :download:`here <SimpleThimble_leapProject.rar>`.
 2. **Extract the Folder**:  
    Extract the ``Simplethimble_leapProject`` folder from the compressed file.
 3. **Open the Project in Unity**:  

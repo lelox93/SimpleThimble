@@ -49,26 +49,22 @@ Welcome to Simple Thimble documentation!
 
 
 
-.. image:: immagine_bandierine/United_Kingdom.png
-      :alt: Lithuania flag
-      :width: 30 px
-      :align: left
-      :target: https://simplethimble.readthedocs.io/en/latest/
+.. .. image:: immagine_bandierine/United_Kingdom.png
+..       :alt: Lithuania flag
+..       :width: 30 px
+..       :align: left
+..       :target: https://simplethimble.readthedocs.io/en/latest/
 
-
-
-.. image:: augm.png
-   :alt: Haptic Device
-   :align: center
 
 SimpleThimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
-
+The device is sponsored by **AugmentedWearEdu** project.
 
 .. toctree::
    :maxdepth: 2
    :caption: Overview:
 
    Welcome to Simple Thimble! <chapters/Overview/intro>
+   chapters/Overview/project
    chapters/Overview/haptic-intro
    chapters/Overview/hardware-overview
 

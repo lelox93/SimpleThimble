@@ -47,7 +47,7 @@ Before you begin, ensure that you have the following:
    - Press Build and Run.
 
 
-**Step 3**: Play the Game
+**Step 2**: Play the Game
 ---------------------
 When running the project, you should see an environment similar to the following image:
 
@@ -58,7 +58,8 @@ When running the project, you should see an environment similar to the following
 
 |
 
-From here you have to select the ``COM`` port where the dongle is attached to your computer. Moreover, on the right bottom corner, you can see two sliders for offset. The offset are used to set the minimum and maximum values of the force feedback. On the right side there is a panel ``Debug`` for debugging, without the need to open the serial connection. Once you have pressed the ``Start`` button, you can move the sphere using the mouse or trackpad of your computer. The sphere will move on the surface and collide with the obstacles. The thimble will produce force when the sphere collides with an obstacle. The demo will be as the following:
+In the application, you need to select the ``COM`` port where the dongle is connected to your computer. Additionally, at the bottom right corner, you will see two sliders for offset adjustments. These offsets are used to set the minimum and maximum values of the force feedback. On the right side, there is a ``Debug`` panel for debugging without opening the serial connection. Once you press the ``Start`` button, you can move the sphere using your mouse or trackpad. The sphere will navigate the surface and collide with obstacles, while the thimble generates force feedback upon collision. The demo will look like the following:
+
 
 .. image:: desktopApp.gif
    :alt: pref

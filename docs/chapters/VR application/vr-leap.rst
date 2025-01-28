@@ -78,7 +78,7 @@ After opening the project, you should see a Unity IDE environment similar to thi
 4. Save the changes and return to Unity.
 
 .. note::
-   In case same drivers are missing, we suggest following the optional step below. Otherwise, you can directly skip to the **Step 3**. 
+   In case same drivers are missing, we suggest following the optional step below. Otherwise, you can directly go to **Step 3**. 
 |
 
 

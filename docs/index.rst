@@ -57,12 +57,12 @@ Welcome to Simple Thimble documentation!
 
 
 SimpleThimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
-The device is sponsored by **AugmentedWearEdu** project and developed by **SirsLab** (Siena Robotics and System Lab) of the University of Siena.
+.. The device is sponsored by **AugmentedWearEdu** project and developed by **SirsLab** (Siena Robotics and System Lab) of the University of Siena.
 
-.. image:: logo_sirslab.png
-   :alt: pref
-   :align: center
-|
+.. .. image:: logo_sirslab.png
+..    :alt: pref
+..    :align: center
+.. |
 
 .. toctree::
    :maxdepth: 2
@@ -100,6 +100,7 @@ The device is sponsored by **AugmentedWearEdu** project and developed by **SirsL
    chapters/Firmware/firmware-onboard
    chapters/Firmware/firmware-final-test
 
+   
 .. toctree::
    :maxdepth: 2
    :caption: VR application:
@@ -108,8 +109,14 @@ The device is sponsored by **AugmentedWearEdu** project and developed by **SirsL
    chapters/VR application/vr-desktop
    chapters/VR application/vr-leap
    chapters/VR application/vr-oculus
-   .. chapters/VR application/vr-simplethimble-project
-..   The final Simple Thimble onboard firmware <Firmware/firmware-onboard>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Course:
+
+   chapters/Course/software-intro
+   chapters/Course/software-install
+   
 
 
 .. Indices and tables

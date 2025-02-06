@@ -5,13 +5,19 @@ The main box is the central 3D printed part which houses directly the motor
 and accomodate the shape of our finger.
 You can download the .stl file :download:`here <finger-servo-adapter.stl>`.
 
-+--------------------------------+--------------------------------+
-| .. image:: main-box.jpg        | .. image:: finger-servo-adapter.gif |
-|    :alt: Main Box Image        |    :alt: finger-servo-adapter  |
-|    :height: 300px              |    :height: 300px              |
-|    :width: 300px               |    :width: 300px               |
-|    :align: center              |    :align: center              |
-+--------------------------------+--------------------------------+
+
+.. image:: main-box.jpg
+   :alt: Main Box Image
+   :height: 300px
+   :width: 300px
+   :align: left
+
+.. image:: finger-servo-adapter.gif
+   :alt: finger-servo-adapter
+   :height: 300px
+   :width: 300px
+   :align: right
+|
 
 The function of this 3D printed part is to provide a mechanical linkage 
 between the servomotor and the finger and ensure that the actuation part is 

@@ -11,11 +11,13 @@ You can download the .stl file :download:`here <finger-servo-adapter.stl>`.
    :height: 300px
    :width: 300px
    :align: left
-
-
+|
 .. image:: finger-servo-adapter.gif
    :alt: finger-servo-adapter
+   :height: 300px
+   :width: 300px
    :align: right
+|
 
 The function of this 3D printed part is to provide a mechanical linkage 
 between the servomotor and the finger and ensure that the actuation part is 

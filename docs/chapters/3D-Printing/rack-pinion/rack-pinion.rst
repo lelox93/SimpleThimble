@@ -19,6 +19,7 @@ smoothly with each other, ensuring reliable and accurate conversion of motion.
    :height: 300px
    :width: 300px
    :align: right
+|
 
 You can download the .stl file of the rack :download:`here <rack.stl>` and 
 that of the pinion :download:`here <pinion.stl>`.
@@ -35,6 +36,7 @@ comfort, allowing for efficient and ergonomic use.
    :height: 300px
    :width: 300px
    :align: left
+|
 
 The design of these 3D printed parts was also done with ease of printing in mind, 
 using fused deposition modeling (FDM) technology. This method allows for quick 

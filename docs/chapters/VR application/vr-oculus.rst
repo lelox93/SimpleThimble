@@ -110,7 +110,7 @@ The right hand consists of two overlapping virtual hands. One serves for interac
 |
 
 
-**Step 8**: Bimanual Configuration (Optional)
+**Step 8**: Bimanual Configuration (Optional) 
 ------------------------------------
    A firmware plug-in containing the UDP communication code for a second SimpleThimble to use in bimanual mode is available :download:`here <SimpleThimble_biManipulation.rar>`. The code is made for a standalone version and connects via Wi-Fi to the same network as the first thimble. In the Unity implementation, you need to set the UDP port of the second thimble to receive values.
 

@@ -59,10 +59,10 @@ Welcome to Simple Thimble documentation!
 SimpleThimble is the first *open-source* and *low-cost* project to build your **own** VR-enabled **force feedback device**.
 
 
-.. .. image:: logo_sirslab.png
-..    :alt: pref
-..    :align: center
-.. |
+.. image:: logo_sirslab.png
+   :alt: pref
+   :align: center
+|
 
 .. toctree::
    :maxdepth: 2
@@ -71,6 +71,7 @@ SimpleThimble is the first *open-source* and *low-cost* project to build your **
    Welcome to Simple Thimble! <chapters/Overview/intro>
    chapters/Overview/haptic-intro
    chapters/Overview/hardware-overview
+   chapters/Overview/project
 
 .. toctree::
    :maxdepth: 2
